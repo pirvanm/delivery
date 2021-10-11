@@ -6,38 +6,38 @@
             element html unul langa altul fortat , 
         vine din boostrap. css  -->
                 <!-- inceputul liste  -->
-                <li class="">
+                <li class="pr-1 mr-1">
                     <!--Un element al unei liste   -->
                     <a href="#link">
-                        Link 1
+                        Find
                     </a>
                 </li>
 
                 <li>
                     <!--Un element al unei liste   -->
                     <a href="#link">
-                        Link 2
+                       About
                     </a>
                 </li>
 
                 <li>
                     <!--Un element al unei liste   -->
                     <a href="#link">
-                        Link 3
+                        How it Work
                     </a>
                 </li>
 
                 <li>
                     <!--Un element al unei liste   -->
                     <a href="#link">
-                        Link 4
+                       Plans
                     </a>
                 </li>
 
                 <li>
                     <!--Un element al unei liste   -->
                     <a href="#link">
-                        Link 5</a>
+                        Contact Us</a>
                 </li>
             </ul>
 
