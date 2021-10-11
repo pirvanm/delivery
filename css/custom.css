@@ -41,7 +41,12 @@ p {
 .text-orange {
     color:orange;
 }
+
+li {
+    list-style-type: none;
+}
 /* Folosi ctrl-shift-r daca nu se vad actualizarile */
 ul li  a{
-    color: grey !important;;
+    color: grey !important;
+    
 }
