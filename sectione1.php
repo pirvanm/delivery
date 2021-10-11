@@ -1,5 +1,9 @@
-<div id="1" class="d-flex mt-5">
+<div id="1" class="row mt-5">
+    <div class="col-3">
+
             <span class="text-orange"> Kuks Fresh </span>
+            </div>
+            <div class="col-6">
             <!--  zona de meniu -->
             <ul class="d-flex ">
                 <!-- d-flex clasa de css ce afiseaza 
@@ -41,7 +45,11 @@
                 </li>
             </ul>
 
+</div>
+<div class="col-3">
             <button class="btn  text-white bg-orange">
                 Cos de cumparaturi
             </span>
         </div>
+
+</div>
