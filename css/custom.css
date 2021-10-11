@@ -38,13 +38,22 @@
 p {
     color: black;
 }
-.text-orange {
-    color:orange;
+
+/* 2 clase css folosesc acelasi cod */
+.text-orange  {
+    color:orange!important;
 }
+
+/* definit de programator nu are treaba bootstrap */
+.bg-orange {
+    background-color: orange;
+}
+
 
 li {
     list-style-type: none;
     padding-right:20px;
+  
 }
 /* Folosi ctrl-shift-r daca nu se vad actualizarile */
 ul li  a{

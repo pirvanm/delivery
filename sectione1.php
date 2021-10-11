@@ -41,7 +41,7 @@
                 </li>
             </ul>
 
-            <span>
+            <button class="btn  text-white bg-orange">
                 Cos de cumparaturi
             </span>
         </div>
