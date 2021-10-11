@@ -41,3 +41,7 @@ p {
 .text-orange {
     color:orange;
 }
+/* Folosi ctrl-shift-r daca nu se vad actualizarile */
+ul li  a{
+    color: grey !important;;
+}

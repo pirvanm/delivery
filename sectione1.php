@@ -1,12 +1,12 @@
 <div id="1" class="d-flex mt-5">
             <span class="text-orange"> Kuks Fresh </span>
             <!--  zona de meniu -->
-            <ul class="d-flex">
+            <ul class="d-flex ">
                 <!-- d-flex clasa de css ce afiseaza 
             element html unul langa altul fortat , 
         vine din boostrap. css  -->
                 <!-- inceputul liste  -->
-                <li>
+                <li class="">
                     <!--Un element al unei liste   -->
                     <a href="#link">
                         Link 1
