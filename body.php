@@ -4,11 +4,10 @@
         <!-- Sectiunea 1 , navbar -->
 <?php
 include ('sectione1.php');
+include('sectiontwo.php');
 ?>
         <!-- Sectiunea 2  -->
-        <div id="2">
-            <p> Mesaj de primire</p>
-        </div>
+
 <div class="container">
 <!-- save for the future of the grid -->
 
