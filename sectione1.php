@@ -1,5 +1,5 @@
 <div id="1" class="d-flex mt-5">
-            <span> Logo </span>
+            <span class="text-orange"> Kuks Fresh </span>
             <!--  zona de meniu -->
             <ul class="d-flex">
                 <!-- d-flex clasa de css ce afiseaza 
