@@ -139,28 +139,30 @@
 <ul class="nav nav-tabs" id="myTab" role="tablist">
 
     <li class="nav-item" role="presentation">
+
       <button class="nav-link active" id="home-tab" 
-      data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" 
-      aria-controls="home" aria-selected="true">All(170)</button>
+      data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">All(170)</button>
     </li>
 
-    <li class="nav-item" role="presentation">
-      <button class="nav-link" id="profile-tab" data-bs-toggle="tab" 
-      data-bs-target="#profile" type="button" role="tab" aria-controls="profile"
+    <!-- <li class="nav-item" role="presentation">
+
+      <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#breakfast" type="button" role="tab" aria-controls="breakfast"
        aria-selected="false">BreakFast(23)</button>
-    </li>
+    </li> -->
 
-    <li class="nav-item" role="presentation">
+     <li class="nav-item" role="presentation">
       <button class="nav-link" id="lunch-tab" data-bs-toggle="tab" 
-      data-bs-target="#contact" type="button" role="tab" aria-controls="lunch"
+      data-bs-target="#lunch" type="button" role="tab" aria-controls="lunch"
        aria-selected="false">Lunch 41</button>
     </li>
 
     <li class="nav-item" role="presentation">
         <button class="nav-link" id="drinks-tab" data-bs-toggle="tab" 
-        data-bs-target="#contact" type="button" role="tab" aria-controls="drinks"
+        data-bs-target="#drinks" type="button" role="tab" aria-controls="drinks"
          aria-selected="false">Drinks 53</button>
       </li>
+
+      <!--
 
       <li class="nav-item" role="presentation">
         <button class="nav-link" id="desert-tab" data-bs-toggle="tab" 
@@ -172,27 +174,29 @@
         <button class="nav-link" id="fastfood-tab" data-bs-toggle="tab" 
         data-bs-target="#contact" type="button" role="tab" aria-controls="fastfood"
          aria-selected="false">FastFood 20</button>
-      </li>
+      </li> -->
   </ul>
 
   <!-- Ascunsa ce se afiseaza cand dam click pe meniul de mai sus  -->
   <div class="tab-content" id="myTabContent">
+
     <div class="tab-pane fade show active" id="home" role="tabpanel" 
     aria-labelledby="home-tab">
         Continut pentru toate produsele
     </div>
-    <div class="tab-pane fade" id="profile" role="tabpanel" 
-    aria-labelledby="profile-tab">
-        Alt continut  produsele
+
+    <div class="tab-pane fade" id="breakfast" role="tabpanel" 
+    aria-labelledby="breakfast-tab">
+        Mic Dejun
     </div>
 
-    <div class="tab-pane fade" id="produse" role="tabpanel" 
-    aria-labelledby="lunch-tab">Cateva produse</div>
+    <div class="tab-pane fade" id="lunch" role="tabpanel" 
+    aria-labelledby="lunch-tab">lunch</div>
     </div>
 
     <div class="tab-pane fade" id="drinks" role="tabpanel" 
     aria-labelledby="drinks-tab">Sa vina bauturile</div>
-    </div>
+</div>
 
     <div class="tab-pane fade" id="deserts" role="tabpanel" 
     aria-labelledby="desert-tab">Sa vina dulciurile</div>

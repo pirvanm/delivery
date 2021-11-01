@@ -3,9 +3,10 @@
         <!-- Aici incep sectiunile propriu zise de cod -->
         <!-- Sectiunea 1 , navbar -->
 <?php
-include ('sectione1.php');
-// include('sectiontwo.php');
-// include('sectionTree.php');
+//include ('sectione1.php');
+ //include('sectiontwo.php');
+ //include('sectionTree.php');
+ include('sectionFour.php');
 ?>
         <!-- Sectiunea 2  -->
 
