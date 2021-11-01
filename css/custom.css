@@ -31,9 +31,9 @@
     transform: translate(-50%, -50%);
 }
 
-* {
+/* * {
     color: orange;
-}
+} */
 
 p {
     color: black;
@@ -59,4 +59,8 @@ li {
 ul li  a{
     color: grey !important;
     
+}
+
+.fas.fa-heart,.far.fa-heart{
+   color:  #cc0052!important;
 }
