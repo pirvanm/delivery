@@ -41,7 +41,39 @@
   <img src="img/menu1.jpg" class="card-img-top" alt="...">
   <div class="card-body">
   <h5 class="card-title"><span> Nume Meniu 1 span>  </span>  <span> <i class="fas fa-heart"></i></span></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <div class="card-text d-flex">
+      <ul class="d-flex star-list">
+        <li>
+           <i class="fas fa-star"></i>
+        </li>
+
+        <li>
+          <i class="fas fa-star"></i>
+        </li>
+
+       <li>
+        <i class="fas fa-star"></i>
+        </li>
+
+        <li>
+        <i class="fas fa-star"></i>
+        </li>
+    
+        <li>
+          <i class="far fa-star"></i>
+        </li>
+
+      </ul>
+
+         <span> 20 Reviw uri </span>
+</div>
+
+  <div class="etichete mb-2">
+  <span class="badge rounded-pill bg-light text-dark p-2">Italian</span>
+  <span class="badge rounded-pill bg-light text-dark p-2">European</span>
+  <span>  <i class="fas fa-clock"></i> 10-20 </span>
+
+  </div>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -50,7 +82,41 @@
   <img src="img/menu2.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title"><span> Nume Meniu 2</span> <span> <i class="far fa-heart"></i> </span></h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+    <div class="card-text d-flex">
+      <ul class="d-flex star-list">
+        <li>
+           <i class="fas fa-star"></i>
+        </li>
+
+        <li>
+          <i class="fas fa-star"></i>
+        </li>
+
+       <li>
+        <i class="fas fa-star"></i>
+        </li>
+
+        <li>
+        <i class="fas fa-star"></i>
+        </li>
+    
+        <li>
+          <i class="far fa-star"></i>
+        </li>
+
+      </ul>
+
+         <span> 20 Reviw uri </span>
+</div>
+
+  <div class="etichete mb-2">
+  <span class="badge rounded-pill bg-light text-dark p-2">Italian</span>
+  <span class="badge rounded-pill bg-light text-dark p-2">European</span>
+  <span>  <i class="fas fa-clock"></i> 10-20 </span>
+
+  </div>
+
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
@@ -59,7 +125,39 @@
   <img src="img/menu3.jpg" class="card-img-top" alt="...">
   <div class="card-body">
   <h5 class="card-title"><span>Nume Meniu 3</span><span> <i class="fas fa-heart"></i></span>  </h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <div class="card-text d-flex">
+      <ul class="d-flex star-list">
+        <li>
+           <i class="fas fa-star"></i>
+        </li>
+
+        <li>
+          <i class="fas fa-star"></i>
+        </li>
+
+       <li>
+        <i class="fas fa-star"></i>
+        </li>
+
+        <li>
+        <i class="fas fa-star"></i>
+        </li>
+    
+        <li>
+          <i class="far fa-star"></i>
+        </li>
+
+      </ul>
+
+         <span> 20 Reviw uri </span>
+</div>
+
+  <div class="etichete mb-2">
+  <span class="badge rounded-pill bg-light text-dark p-2">Italian</span>
+  <span class="badge rounded-pill bg-light text-dark p-2">European</span>
+  <span>  <i class="fas fa-clock"></i> 10-20 </span>
+
+  </div>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>

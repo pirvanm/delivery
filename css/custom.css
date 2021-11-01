@@ -64,3 +64,8 @@ ul li  a{
 .fas.fa-heart,.far.fa-heart{
    color:  #cc0052!important;
 }
+
+.star-list li  {
+    padding:0;
+    margin:0;
+}
